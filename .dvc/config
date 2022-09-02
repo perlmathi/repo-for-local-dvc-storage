@@ -1,0 +1,5 @@
+[core]
+    remote = local-dvc-sep01
+    autostage = true
+['remote "local-dvc-sep01"']
+    url = /tmp/local-dvc-sep01
